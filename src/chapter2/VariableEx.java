@@ -15,6 +15,8 @@ public class VariableEx {
 		int level = 20;
 		System.out.println(level);
 		
+//		변수와 자료형(2) 6:42~
+		
 	}
 
 }
