@@ -64,3 +64,6 @@
 
 ## 03-2 비트 연산자
 ---
+
+비트 연산자는 정수에만 사용가능하다.
+![Untitled](https://user-images.githubusercontent.com/59382707/130038917-640483e1-2035-4218-a050-42601024475a.png)
