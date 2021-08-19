@@ -45,3 +45,9 @@
 
 ![Untitled](https://user-images.githubusercontent.com/59382707/130032870-1daf0914-f414-4543-a76e-ddc6ac5426b8.png)
 
+### 논리 연산자
+
+- 관계 연산자와 혼합하여 많이 사용된다.
+- 연산의 결과가 true(참)/false(거짓)으로 반환된다.
+
+![Untitled](https://user-images.githubusercontent.com/59382707/130033294-36447ab4-1189-46c4-a9e6-2ca8ea998e49.png)
