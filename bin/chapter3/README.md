@@ -51,3 +51,16 @@
 - 연산의 결과가 true(참)/false(거짓)으로 반환된다.
 
 ![Untitled](https://user-images.githubusercontent.com/59382707/130033294-36447ab4-1189-46c4-a9e6-2ca8ea998e49.png)
+
+### 단락 회로 평가(Short-Circuit Evaluation)
+
+- **논리 곱(&&)**
+
+⇒ 앞의 항이 false이면 뒤 항의 결과를 평가하지 않아도 false이다.
+
+- **논리 합(||)**
+
+⇒ 앞의 항이 true이면 뒤 항의 결과를 평가하지 않아도 true이다.
+
+## 03-2 비트 연산자
+---
