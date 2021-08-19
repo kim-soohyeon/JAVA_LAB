@@ -31,3 +31,10 @@
 - % 연산자 → 숫자 n의 나머지는 0~n-1 범위의 수
 
 ![Untitled](https://user-images.githubusercontent.com/59382707/130031976-6df36d78-b92f-4868-8100-29bfb024c4e9.png)
+
+### 증가ᆞ감소 연산자
+
+- 단항 연산자. 1만큼 더하거나 뺄 때 사용하는 연산자.
+- 항의 앞/뒤 위치에 따라 연산의 결과가 달라진다.
+
+![Untitled](https://user-images.githubusercontent.com/59382707/130032236-1bfcb7b7-1d80-4077-9230-218ec33355b8.png)
