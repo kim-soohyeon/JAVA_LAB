@@ -24,3 +24,10 @@
 - 단항 연산자. 양수/음수의 표현, 값의  부호를 변경
 
 ![Untitled](https://user-images.githubusercontent.com/59382707/130031691-e5d3c260-3ef5-4cdb-8378-8ecc7ccf1fad.png)
+
+### 산술 연산자
+
+- 사칙연산에 사용되는 연산자.
+- % 연산자 → 숫자 n의 나머지는 0~n-1 범위의 수
+
+![Untitled](https://user-images.githubusercontent.com/59382707/130031976-6df36d78-b92f-4868-8100-29bfb024c4e9.png)
