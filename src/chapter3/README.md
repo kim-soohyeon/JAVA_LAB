@@ -67,3 +67,6 @@
 
 비트 연산자는 정수에만 사용가능하다.
 ![Untitled](https://user-images.githubusercontent.com/59382707/130038917-640483e1-2035-4218-a050-42601024475a.png)
+
+### 연산자 우선 순위
+![Untitled](https://user-images.githubusercontent.com/59382707/130041733-92a7e648-41be-4423-9c68-f74faa4553f4.png)
