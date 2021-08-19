@@ -10,6 +10,10 @@ public class OpertaionEx4 {
 		System.out.println(num1 %= 10);
 		num1 -= 1;
 		System.out.println(num1);
+		
+		//조건 연산자 - > 삼항 연산자
+		int num = (5 > 3)? 10: 20;
+		System.out.println(num);
 	}
 
 }
