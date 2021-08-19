@@ -38,3 +38,10 @@
 - 항의 앞/뒤 위치에 따라 연산의 결과가 달라진다.
 
 ![Untitled](https://user-images.githubusercontent.com/59382707/130032236-1bfcb7b7-1d80-4077-9230-218ec33355b8.png)
+
+### 관계 연산자
+
+- 이항 연산자. 연산의 결과가 true(참)/false(거짓)으로 반환된다.
+
+![Untitled](https://user-images.githubusercontent.com/59382707/130032870-1daf0914-f414-4543-a76e-ddc6ac5426b8.png)
+
