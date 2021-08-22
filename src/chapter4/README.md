@@ -56,3 +56,27 @@
 간단한 if-else 조건문은 조건 연산자로 구현할 수 있다.
 
 ![Untitled](https://user-images.githubusercontent.com/59382707/130347866-45bec698-b4ef-485d-b406-f7f79aea9491.png)
+
+### switch-case문
+
+조건식의 결과가 정수 또는 문자열의 값이고 그 값에 따라 수행문이 결정될 때 사용한다.
+
+- 순위에 따른 메달의 색을 정해주는 코드
+
+	switch(rank){
+	
+	case 1: medalColor = 'G';
+	
+	break;
+	
+	case 2: medalColor = 'S;
+	
+	break;
+	
+	case 3: medalColor = 'B';
+	
+	break;
+	
+	default: medalColor = 'A;
+	
+	}
