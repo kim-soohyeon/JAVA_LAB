@@ -80,3 +80,7 @@
 	default: medalColor = 'A;
 	
 	}
+
+### case문에 문자열 사용하기(자바 7 이상가능)
+
+switch-case문의 case에 문자열을 사용할 수 있다.
