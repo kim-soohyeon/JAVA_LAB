@@ -50,3 +50,9 @@
 	문장4;
 	
 	}
+
+### 조건문과 조건 연산자
+
+간단한 if-else 조건문은 조건 연산자로 구현할 수 있다.
+
+![Untitled](https://user-images.githubusercontent.com/59382707/130347866-45bec698-b4ef-485d-b406-f7f79aea9491.png)
